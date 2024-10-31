@@ -16,7 +16,7 @@
 <img src="images/Details_por.png" width="45%"/>
 
 ## 2 For Mobile or Tablet [ Landscape Mode ]
-<img src="images/Home_land.png" width="100%"/>
+<img src="images/Home_Land.png" width="100%"/>
 <br>
 <br>
 <img src="images/Details_land.png" width="100%"/>
